@@ -14,3 +14,6 @@ LibreOffice Draw: https://www.libreoffice.org/download/download/
 ## Data Sources
 Aerial imagery, EarthExplorer: https://earthexplorer.usgs.gov/ (2013 LA County high resolution orthoimagery)
 Icons, Wikimedia Commons: https://commons.wikimedia.org/wiki/Main_Page
+
+## Presentation
+Slides can be found at https://bondah.github.io/ucnaturalist
